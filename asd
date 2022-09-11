@@ -54,7 +54,7 @@ var currentStadium = 'ARSA Stadium - RSR';
 // ------------------------------------------------
 // Global Variables
 // ------------------------------------------------
-var roomName = "💙🤍💙 REAL SOCCER 24/7|#ARSA #RSAmérica 🏆";
+var roomName = "🔵⚪🔵 𝗥𝗘𝗔𝗟 𝗦𝗢𝗖𝗖𝗘𝗥 𝟮𝟰/𝟳 | 🏅 ARSA 🏆";
 var roomPassword = null;
 var maxPlayers = 24;
 var roomPublic = true;
@@ -5456,7 +5456,7 @@ isTimeAddedShowncinco = true;
 function PublicitaDiscord2(player) {
 var scores = room.getScores();
 if (scores.time > 20 && !isTimeAddedShownseis) {
-room.sendAnnouncement(`🌟​🏆​ 𝗟𝗢𝗦 𝗗𝗜𝗔𝗦 𝗩𝗜𝗘𝗥𝗡𝗘𝗦 𝗘𝗡𝗧𝗥𝗘𝗚𝗔𝗠𝗢𝗦 𝗟𝗢𝗦 𝗣𝗥𝗘𝗠𝗜𝗢𝗦 𝗦𝗘𝗠𝗔𝗡𝗔𝗟𝗘𝗦 𝗘𝗡 𝗡𝗨𝗘𝗦𝗧𝗥𝗢 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 𝗢𝗙𝗜𝗖𝗜𝗔𝗟❗`player, 0xd733ff, "bold", 0)
+room.sendAnnouncement(`🌟​🏆​ 𝗟𝗢𝗦 𝗗𝗜𝗔𝗦 𝗩𝗜𝗘𝗥𝗡𝗘𝗦 𝗘𝗡𝗧𝗥𝗘𝗚𝗔𝗠𝗢𝗦 𝗟𝗢𝗦 𝗣𝗥𝗘𝗠𝗜𝗢𝗦 𝗦𝗘𝗠𝗔𝗡𝗔𝗟𝗘𝗦 𝗘𝗡 𝗡𝗨𝗘𝗦𝗧𝗥𝗢 𝗗𝗜𝗦𝗖𝗢𝗥𝗗 𝗢𝗙𝗜𝗖𝗜𝗔𝗟❗`, player, 0xd733ff, "bold", 0)
 isTimeAddedShownseis = true;
 }
 }
